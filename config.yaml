@@ -1,0 +1,26 @@
+email: mohammed.saif@fishbonesolutions.co.uk
+password: Kow72687
+data_model:
+  site_url : "https://fishbonesolutions.sharepoint.com/sites/Test"
+  file_name : 'datafile.csv'
+  file_url : '/sites/test/Shared Documents/datafile.csv'
+  table: calvert_rail
+  cols: 'Delivery Date|Ticket Number|Train delivered forecast'
+  #cols: 'Delivery Date|Ticket Number |Train delivered forecast|	Train Delivered |	HS2 Actual Train Arrival |Total Rail Wagons |Tonnes delivered forecast'
+  #cols: 'TRIGGER|TIMESTAMP|Stack_Height|Temp|VAL1|VAL2'
+  
+
+data_model2:
+  site_url : "https://fishbonesolutions.sharepoint.com/sites/Test"
+  file_name : 'file.xlsx'
+  file_url : '/sites/test/Shared Documents/file.xlsx'
+  table: 'table2'
+  cols: 
+
+data_model3:
+  site_url : "https://fishbonesolutions.sharepoint.com/sites/Test"
+  file_name : 'datafile.csv'
+  file_url : '/sites/test/Shared Documents/datafile.csv'
+  table: hastec
+  cols: 'TRIGGER|TIMESTAMP|Stack_Height|Temp|VAL1|VAL2'
+
